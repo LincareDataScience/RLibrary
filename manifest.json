@@ -915,7 +915,7 @@
   },
   "files": {
     "app.R": {
-      "checksum": "3b1bcf503d0b23b3f40261c82200d2ad"
+      "checksum": "1a3bec2499bb7ddef25c8f7b260e138f"
     },
     "packrat/desc/base64enc": {
       "checksum": "1ad8f447d65d55f02a6355b4e7b5756a"
