@@ -17,9 +17,7 @@ hello <- function() {
   print("Hello, world...JK_(hello)!")
 }
 
-test <- function(){
-  print("JOE")
-}
+
 
 
 
