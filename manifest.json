@@ -914,9 +914,6 @@
     }
   },
   "files": {
-    "app.R": {
-      "checksum": "16f592953a6a943496ad16f9a3b9fa54"
-    },
     "packrat/desc/base64enc": {
       "checksum": "1ad8f447d65d55f02a6355b4e7b5756a"
     },
