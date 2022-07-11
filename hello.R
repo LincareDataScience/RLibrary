@@ -14,7 +14,11 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world....SYKE!")
+  print("Hello, world...JK_(hello)!")
+}
+
+test <- function(){
+  print("JOE")
 }
 
 
